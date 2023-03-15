@@ -11,6 +11,8 @@
 | 2019 provincial, municipal and county data |         2019全国行政区划          |         WGS84(epsg:4326)          | ![image-20230114002900701](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230114002900701.png) |      |
 | Full version of Chinese elements           |             china-all             |         WGS84(epsg:4326)          | ![image-20230114003210005](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230114003210005.png) |      |
 | IPCC reference region                      |       IPCCreference-regions       |         WGS84(epsg:4326)          | ![image-20230114003516076](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230114003516076.png) |      |
+| HydroBasin Boundry                         |  HydroBasin-20230315T125203Z-001  |         WGS84(epsg:4326)          | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230315212046.png) |      |
+| GEDC                                       |    grdc_major_river_basins_shp    |         WGS84(epsg:4326)          | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230315212144.png) |      |
 |                                            |                                   |                                   |                                                              |      |
 
 If you are Chinese:
