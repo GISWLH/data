@@ -12,7 +12,9 @@
 | Full version of Chinese elements           |             china-all             |         WGS84(epsg:4326)          | ![image-20230114003210005](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230114003210005.png) |      |
 | IPCC reference region                      |       IPCCreference-regions       |         WGS84(epsg:4326)          | ![image-20230114003516076](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230114003516076.png) |      |
 | HydroBasin Boundry                         |  HydroBasin-20230315T125203Z-001  |         WGS84(epsg:4326)          | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230315212046.png) |      |
-| GEDC                                       |    grdc_major_river_basins_shp    |         WGS84(epsg:4326)          | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230315212144.png) |      |
+| GRDC                                       |    grdc_major_river_basins_shp    |         WGS84(epsg:4326)          | ![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230315212144.png) |      |
+| Köppen Global Climate Zones                |            Beck_KG_V1             |         WGS84(epsg:4326)          | ![image-20230812162558443](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/image-20230812162558443.png) |      |
+|                                            |                                   |                                   |                                                              |      |
 |                                            |                                   |                                   |                                                              |      |
 
 If you are Chinese:
@@ -86,3 +88,17 @@ IPCC官方提供的推荐分区，包括推荐分区、季风区、海洋生物�
 投影为WGS84
 
 ![image-20230114003516076](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230114003516076.png)
+
+9.HydroBasin
+
+HydroBasin Boundry
+
+HydroBASINS代表了一系列矢量多边形图层，在全球范围内描述了子流域的边界。该产品的目标是在全球范围内无缝覆盖不同尺度（从几十平方公里到几百万平方公里）的大小一致、分层嵌套的子流域，并由一个编码方案支持，以便对流域拓扑结构进行分析，如上下游连接。HydroBASINS是从网格化的HydroSHEDS核心层中提取的，分辨率为15弧秒。
+
+![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230315212046.png)
+
+10.GRDC大流域
+
+![](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230315212144.png)
+
+GRDC由德国联邦水文研究所名下的全球径流数据中心运营，其最初成立于三十年前，旨在帮助地球科学家分析全球气候趋势并评估环境影响和风险。GRDC提供了目前全球可开放获取的最丰富的径流资料包括来自159个国家的10000多个站点的河流流量数据，时间跨度最大达到200年。目前提供全球范围内站点的每月和每日径流全球主要流域河流等数据。
